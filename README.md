@@ -1,4 +1,7 @@
 # python-speedtest
+Required python packages (use ```pip``` to install it): 
+* speedtest-cli
+
 Use a cronjob to execute:
 
 ```python3 speedtest.py >> speedtest.csv```
