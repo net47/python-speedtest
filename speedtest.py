@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 import re
 from subprocess import check_output
